@@ -51,8 +51,6 @@
 
 
 </p>
-
-
 ---
 
 ### 📊 Core Competencies
@@ -62,13 +60,6 @@
 - **Tools:** Git, GitHub, Apache Kafka, VS Code, Visual Studio, Figma, Ubuntu  
 - **Principles:** OOP, SOLID, Data Structures, Algorithms, Database Design
 
----
-
-### 🏆 Achievements & Certifications
-
-- ECPC Finalist (2022, 2023, 2024)  
-- 500+ problems solved on Codeforces, LeetCode & VJudge  
-- B2 English Proficiency Certified  
 
 ---
 
