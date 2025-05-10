@@ -23,67 +23,12 @@
 
 ### 🎯 About Me
 
-- 🔭 I’m currently interning as a **Network Engineering** Intern at Network Datacom A.O.I.  
 - 🌱 I’m completing my **B.Sc. in Computer Science** at King Salman International University (Class of 2025).  
 - 💬 Ask me about **.NET Core**, **C#**, **SQL Server**, **Angular**, **Kafka**, or **Flutter**.  
 - ⚙️ I’m building **distributed backends**, **real‑time messaging systems**, and **property‑finder SaaS**.  
 - 📫 Reach me at **mohamedsalah1462003@gmail.com** or 📱 **+20 101 204 8279**.
 
 ---
-
-### 🏫 Education
-
-**King Salman International University**  
-_B.Sc. Computer Science (CGPA: B+)_  
-_Aug 2021 – Jun 2025_ | Egypt
-
----
-
-### 💼 Experience
-
-**Network Datacom A.O.I.** (Intern)  
-_Onsite · Jul 2024 – Aug 2024_  
-- Configured & troubleshot network protocols (HCIA fundamentals).  
-- Implemented secure networking solutions alongside senior engineers.  
-- Documented network configs & best practices.
-
-**Google Developer Student Club** (Problem‑Solving Coach)  
-_Remote · Oct 2023 – Jul 2024_  
-- Coached peers in data structures, algorithms & UI/UX (Figma).  
-- Led live‑coding workshops to sharpen analytical skills.  
-
-**AKCallers** (Customer Support Rep)  
-_Remote · Jun 2023 – Aug 2023_  
-- Handled U.S. real‑estate client calls; resolved inquiries professionally.  
-- Demonstrated B2‑level English communication & rapid domain adaptation.
-
----
-
-### 🚀 Projects
-
-**Property Finder System** | _C#, .NET, SQL Server, Flutter_  
-_Feb 2024 – Present_  
-- 3‑member team building platform for tenants & owners in South Sinai.  
-- Designed DB & secure auth APIs (role‑based access).  
-- Real‑time property updates with Flutter frontend & .NET backend.
-
-**Talabat Clone** | _Angular, .NET Core, Apache Kafka_  
-_Feb 2025 – Present_  
-- Local e‑commerce marketplace: browse & order from nearby stores.  
-- Integrated Kafka for real‑time inter‑service messaging.  
-- Optimized delivery routes using salesman algorithms.
-
-**WhatsApp Clone** | _Flutter, Firebase_  
-_May 2023_ • [GitHub](https://github.com/MohamedSalah41/Whatsapp_clone)  
-- Real‑time chat, media sharing & responsive UI.
-
-**Hospital Management System** | _HTML, CSS, JS_  
-_Apr 2023_ • [GitHub](https://github.com/MohamedSalah41/El-TOR_Hospital)  
-- Patient appointment scheduling & role‑based permissions.  
-- UML: Use‑Case & Sequence diagrams.
-
----
-
 ### 🛠️ Tech Stack
 
 <p>
@@ -115,7 +60,6 @@ _Apr 2023_ • [GitHub](https://github.com/MohamedSalah41/El-TOR_Hospital)
 - ECPC Finalist (2022, 2023, 2024)  
 - 500+ problems solved on Codeforces, LeetCode & VJudge  
 - B2 English Proficiency Certified  
-- Courses: MIT OCW (Algorithms), Coursera (Data Structures), ITI (DB Fundamentals), Route Academy (OOP)
 
 ---
 
