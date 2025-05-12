@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Mohamed Salah Hussein</h1>
-<h3 align="center">Backend Developer | Building robust .NET & cloud‑powered systems</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   <a href="https://github.com/MohamedSalah41">
