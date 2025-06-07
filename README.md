@@ -24,7 +24,7 @@
 ### 🎯 About Me
 
 - 🌱 I’m completing my **B.Sc. in Computer Science** at King Salman International University (Class of 2025).  
-- 💬 Ask me about **.NET Core**, **C#**, **SQL Server**, **Angular**, **Kafka**, or **Flutter**.  
+- 💬 Ask me about **.NET Core**, **C#**, **SQL Server**, **Angular**, **Kafka**.  
 - ⚙️ I’m building **distributed backends**, **real‑time messaging systems**, and **property‑finder SaaS**.  
 - 📫 Reach me at **mohamedsalah1462003@gmail.com** or 📱 **+20 101 204 8279**.
 
