@@ -61,6 +61,4 @@
 - **Principles:** OOP, SOLID, Data Structures, Algorithms, Database Design
 
 
----
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
